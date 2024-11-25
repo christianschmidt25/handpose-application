@@ -37,3 +37,5 @@ function draw() {
         }
     }
 }
+
+//The application now works!
