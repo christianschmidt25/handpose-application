@@ -1,0 +1,1 @@
+This is the repository for our HandPose application. When accessing this application, your computer webcam will open and display live video, plotting out points on the hand that move with hand movement.
